@@ -1,0 +1,6 @@
+@apiradhiforstage_HostAddress = http://localhost:5166
+
+GET {{apiradhiforstage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
